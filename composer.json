@@ -14,5 +14,8 @@
           "PaladinDigital\\LaravelSocialAuth\\ServiceProvider"
       ]
     }
+  },
+  "require": {
+    "laravel/socialite": "^5.0"
   }
 }
